@@ -7,3 +7,5 @@ As Atividades será disponibilizada toda a segunda e deve ser enviado até o dom
 ### - Criar uma lista com 5 link dos seu filmes ou series favoritos (ul,li,ol,li,a href)
 
 ### - Criar uma tabela de com estado, capital e região ( table, tr,td,th)
+
+Obs: O material está no seu e-mail
