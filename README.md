@@ -1,6 +1,6 @@
-# Curso Hello.World 
 ![](https://raw.githubusercontent.com/Desprograme/curso-hello.world/master/assets/images/logo.jpg)
-Curso de Programação para iniciante
+
+## Curso de Programação para iniciante
 
 Esse curso foi desenvolvido para pessoas iniciantes em programação que buscam desenvolver habilidades de programação web.
 
